@@ -1,5 +1,6 @@
 {
-    "defaultCommandTimeout": 8000,
-    "pageLoadTimeout": 20000,
-    "baseUrl": "http://www.way2automation.com/angularjs-protractor" 
+  "defaultCommandTimeout": 8000,
+  "pageLoadTimeout": 20000,
+  "baseUrl": "http://www.way2automation.com/angularjs-protractor",
+  "projectId": "9ciod5"
 }
